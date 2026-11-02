@@ -1,0 +1,5 @@
+com\mycompany\kalkulatorkalori\model\Kalkulator.class
+com\mycompany\kalkulatorkalori\App.class
+module-info.class
+com\mycompany\kalkulatorkalori\PrimaryController.class
+com\mycompany\kalkulatorkalori\SecondaryController.class
